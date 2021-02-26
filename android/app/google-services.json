@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "563676343991",
+    "project_id": "antonx",
+    "storage_bucket": "antonx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563676343991:android:37876b3c3aad0584ca6732",
+        "android_client_info": {
+          "package_name": "com.example.antonx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563676343991-hfqk47rf8rmmu5pblj97k3t61t0sg29r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antonx",
+            "certificate_hash": "d836d9e8f72db081b49beab42d52b2ff19f85c93"
+          }
+        },
+        {
+          "client_id": "563676343991-ct13teqg3e58k2f7s27ocpa7kt3brc6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3a0jbSj9cUy46aulylEWWT7CwcmANOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563676343991-ct13teqg3e58k2f7s27ocpa7kt3brc6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
